@@ -1,0 +1,14 @@
+{
+  "name": "bd",
+  "version": "1.0.0",
+  "description": "Better Doctor coding assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "ankitaravalji",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^13.0.1"
+  }
+}
