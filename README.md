@@ -25,7 +25,7 @@ http://localhost:8800/api/v1/doctors/firstname
 
 ```
 #### First Hit - Proxy API gets results from 3rd party API
-![alt text](resultImages/firstHitForName_BdAPICall.png)
+![alt text](resultImages/1HitForNameSaraha_CallToBDAPI.png)
 
 #### Second Hit - API retrieves cached data from Elasticsearch
-![alt text](resultImages/SecondHitForSameName_CallToES.png)
+![alt text](resultImages/2HitForNameSarah_CallToES.png)
