@@ -1,7 +1,7 @@
 {
   "name": "bd",
   "version": "1.0.0",
-  "description": "Better Doctor coding assignment",
+  "description": "Node.js Proxy API endpoint",
   "main": "app.js",
   "scripts": {
     "start": "node app"
