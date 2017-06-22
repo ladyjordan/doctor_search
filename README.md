@@ -13,4 +13,5 @@ This is a node.js proxy API that calls the BetterDoctor API to search for doctor
 5. Run - $node server.js ,express http server runs at port 8800.
 6. Hit example  - http://localhost:8800/api/v1/doctors/firstname in the browser address bar
 
+[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
 ![alt text] (https://github.com/ladyjordan/doctor_search/blob/master/resultImages/firstHitForName_BdAPICall.png)
